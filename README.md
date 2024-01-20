@@ -3,7 +3,9 @@
 An app that provides an intelligent university and program searching algorithm to help high school students find their dream programs that match their academic scores and desired career pathways.
 
 You can download the app here:
+
 (Android) https://play.google.com/store/apps/details?id=com.evanbai.programsearch
+
 (IOS) https://apps.apple.com/lv/app/unilookup/id1594039743
 
 ## Getting Started
